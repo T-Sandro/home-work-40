@@ -2,27 +2,6 @@
 
 ---
 
-## 📂 Структура проекту
-
-my-react-app/
-├── public/
-├── src/
-│ ├── assets/
-│ │ └── react.svg
-│ ├── components/
-│ │ ├── ControlledForm.jsx
-│ │ ├── UncontrolledForm.jsx
-│ │ └── UserList.jsx
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-├── package.json
-├── vite.config.js
-└── README.md
-
-
----
-
 ## ⚛️ Опис компонентів
 
 ### ✅ ControlledForm
